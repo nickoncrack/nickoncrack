@@ -29,6 +29,8 @@ Written in: C
 ### osdev
 My attempt at creating a hobby x86 operating system from scratch. Despite it being discontinued, it features a decent amount of features, such as: paging, a heap memory allocator, a custom linked-list-based filesystem, multitasking and a flat binary loader.
 
+Written in: C, x86 assembly
+
 ## Languages and tools
 + **Languages**: C / Assembly (x86, custom ISA) / Python
 + **Tools & systems**: Git, QEMU, NASM, Makefile, GNU/Linux, Windows
