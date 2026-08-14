@@ -41,3 +41,7 @@ Currently learning:
 + Compiler design
 + Computer architecture
 + Hardware description language (Verilog)
+
+## Contacts
+
++ [Discord](https://discord.com/users/705462972415213588)
