@@ -1,6 +1,6 @@
 ## Hi, I'm nick.
 
-I'm 17, self taught systems programmer, interested in computer architecture, low level programming and reverse engineering.
+I'm 18, self taught systems programmer, interested in computer architecture, low level programming and reverse engineering.
 
 ## Notable projects
 ### casm
