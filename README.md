@@ -40,7 +40,7 @@ Written in: C, x86 assembly
 Currently learning:
 + Compiler design
 + Computer architecture
-+ Hardware description language (Verilog)
++ Tensor calculus (for my next project)
 
 ## Contacts
 
